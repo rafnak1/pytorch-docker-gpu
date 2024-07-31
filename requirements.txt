@@ -1,0 +1,4 @@
+install
+notebook
+matplotlib
+imageio
