@@ -1,4 +1,3 @@
-install
 notebook
 matplotlib
 imageio
